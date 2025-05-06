@@ -2,6 +2,9 @@
 
 A frontend-only web tool to guide users in launching crowdsourced innovation challenges, powered by HuggingFace AI.
 
+## Demo Video
+<!-- Failed to upload "Innovation Challenge Onboarding Assistant - Personal - Microsoft​ Edge 2025-05-05 18-52-34.mp4" -->
+
 ## Features
 - **Step-by-Step Guidance**: Hybrid chat/wizard interface for challenge setup.
 - **AI Capabilities**: Summarization, question answering, rubric generation, prize recommendation via HuggingFace.
